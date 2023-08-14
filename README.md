@@ -15,13 +15,20 @@
 --- 
 
 <h2 align="center">💻 <b>programming languages </b>💻</h2>
-<h3 align="middle"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" align="center" width="50" height="40"/>  Junior</h3>
-<h3 align="middle"><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" align="center" width="50" height="40" /> Beginner</h3>
+<h3 align="middle"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" align="center" width="50" height="50"/>  Junior</h3>
+<h3 align="middle"><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" align="center" width="50" height="50" /> Beginner</h3>
 
 ---
 
 <h2 align="center">🗣️ <b>languages</b> 🗣️</h2>
-
+<table>
+<tr>
+  <td><img src="https://github.com/ikikaidesu/ikikaidesu/blob/main/russian%20flag.png" width="50" height="40"><h3>native</h3></td>
+</tr>
+<tr>
+  <td></td>
+</tr>
+</table>
 
 
 
