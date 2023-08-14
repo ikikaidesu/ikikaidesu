@@ -22,3 +22,7 @@
 
 <h2 align="center">🗣️ <b>languages</b></h2>
 
+
+
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ikikaidesu)
