@@ -1,16 +1,26 @@
-### Hi there 👋
 
-<!--
-**ikikaidesu/ikikaidesu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# hi, im Matvey/ikikaidesu!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### :man_technologist: about me :
+
+Beginner GameDev Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. As a child, I always liked to play some online games where there are servers like minecraft. In my youth, when I faced the choice of who I should be, I decided to remember the past and realized that I would like to create something that would bring other people the same joy. That's how I learned about IT and programming.
+
+---
+
+- :zap: I am currently a college student in programming.
+
+- :mailbox:  contact me -> [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/ikikaidesu)
+
+--- 
+
+### 💻 programming languages:
+<div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="git" alt="git" width="10" height="10"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="git" alt="git" width="10" height="10"/>
+</div>
+
+---
+
+### 🗣️ languages:
