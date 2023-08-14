@@ -21,15 +21,14 @@
 ---
 
 <h2 align="center">🗣️ <b>languages</b> 🗣️</h2>
-<table>
-<tr>
-  <td><img src="https://github.com/ikikaidesu/ikikaidesu/blob/main/russian%20flag.png" width="50" height="40"><h3>native</h3></td>
-</tr>
-<tr>
-  <td></td>
-</tr>
+<table align="center">
+  <thead>
+    <tr>
+      <th><img src="https://github.com/ikikaidesu/ikikaidesu/blob/main/russian%20flag.png" width="50" height="40"><h3>native</h3></th>
+      <th><img src="https://github.com/ikikaidesu/ikikaidesu/blob/main/englang%20flag.png" width="50" height="40"><h3>a2-b1</h3></th>
+    </tr>
+  </thead>
 </table>
-
 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ikikaidesu)
