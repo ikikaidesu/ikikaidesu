@@ -10,17 +10,15 @@
 <p align="center">:zap: I am currently a college student in programming.:zap:</p>
 
 <p align="center">:mailbox: contact me :mailbox:</p> 
-:---:  
-
-[![Telegram Badge](https://img.shields.io/badge/-ikikaidesu-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/ikikaidesu)
+<p align="center"><a href="https://t.me/ikikaidesu"><img src="https://github.com/ikikaidesu/ikikaidesu/blob/main/telegram.png"></a></p>
 
 --- 
 
 <h2 align="center">💻 <b>programming languages </b></h2>
 <h3 align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" align="center" width="55" height="55"/>  Junior</h3>
-<h3 align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" align="center" width="50" height="50" /> Beginner</h3>
-
+<h3 align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" align="center" width="50" height="50" /> Beginner</h3></ul>
 
 ---
 
-### 🗣️ languages:
+<h2 align="center">🗣️ <b>languages</b></h2>
+
