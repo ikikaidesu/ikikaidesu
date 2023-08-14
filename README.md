@@ -10,8 +10,9 @@
 <p align="center">:zap: I am currently a college student in programming.:zap:</p>
 
 <p align="center">:mailbox: contact me :mailbox:</p> 
+:---:  
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/f1llzzz) 
+[![Telegram Badge](https://img.shields.io/badge/-ikikaidesu-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/ikikaidesu)
 
 --- 
 
