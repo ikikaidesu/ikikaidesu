@@ -1,10 +1,3 @@
-<style>
-  h {
-    text-decoration: none;
-  }
-</style>
-
-
 <h1 align="middle" text><b>hi, im Matvey/ikikaidesu!</b></h1>
 
 ---
