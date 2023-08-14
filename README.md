@@ -16,8 +16,8 @@ Beginner GameDev Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 --- 
 
 <h2 align="center">💻 <b>programming languages </b></h2>
-<h3 align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="git" alt="git" width="40" height="40"/> Python - junior</h3>
-<h3 align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" align="bottom" title="git" alt="git" width="30" height="30" /> C# - beginner</h3>
+<h3 align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" align="middle" title="git" alt="git" width="40" height="40"/> Junior</h3>
+<h3 align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" align="middle" title="git" alt="git" width="30" height="30" /> Beginner</h3>
 
 
 ---
