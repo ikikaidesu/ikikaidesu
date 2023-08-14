@@ -11,7 +11,7 @@
 
 - :zap: I am currently a college student in programming.
 
-- :mailbox:  contact me -> [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/ikikaidesu)
+- :mailbox:  contact me -> [![Telegram Badge](https://img.shields.io/badge/-ikikaidesu-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/ikikaidesu)
 
 --- 
 
