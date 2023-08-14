@@ -37,5 +37,8 @@
   </thead>
 </table>
 
+---
+<h2 align="center">👨‍🎓  <b>training</b> 👨‍🎓</h2>
+<p align="center">sites where I study languages</p>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ikikaidesu)
