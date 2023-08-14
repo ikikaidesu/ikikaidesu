@@ -15,8 +15,15 @@
 --- 
 
 <h2 align="center">💻 <b>programming languages </b>💻</h2>
-<h3 align="middle"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" align="center" width="50" height="50"/>  Junior</h3>
-<h3 align="middle"><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" align="center" width="50" height="50" /> Beginner</h3>
+
+<table align="center">
+  <thead>
+    <tr>
+      <th><h3 align = "center"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" align="center" width="50" height="50"/> Junior</h3></th>
+      <th><h3 align = "center"><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" align="center" width="50" height="50" /> Beginner</h3></th>
+    </tr>
+  </thead>
+</table>
 
 ---
 
@@ -24,8 +31,8 @@
 <table align="center">
   <thead>
     <tr>
-      <th><img src="https://github.com/ikikaidesu/ikikaidesu/blob/main/russian%20flag.png" width="50" height="40"><h3>native</h3></th>
-      <th><img src="https://github.com/ikikaidesu/ikikaidesu/blob/main/englang%20flag.png" width="50" height="40"><h3>a2-b1</h3></th>
+      <th><img src="https://github.com/ikikaidesu/ikikaidesu/blob/main/russian%20flag.png" width="70" height="50"><h3>native</h3></th>
+      <th><img src="https://github.com/ikikaidesu/ikikaidesu/blob/main/englang%20flag.png" width="70" height="50"><h3>a2-b1</h3></th>
     </tr>
   </thead>
 </table>
