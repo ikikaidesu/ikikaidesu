@@ -41,6 +41,6 @@
 <h2 align="center">👨‍🎓  <b>training</b> 👨‍🎓</h2>
 <p align="center">sites where I study languages</p>
 <p align="center"><a href="https://stepik.org/users/189932395/profile"><img src="https://github.com/ikikaidesu/ikikaidesu/blob/main/pics/stepik1%20(1).png"></a></p>
-<p align="center"><a href="https://www.codewars.com/users/ikikaidesu"><img src="https://srv2.imgonline.com.ua/result_img/imgonline-com-ua-Resize-uHzWRWpG5pB.png"></a></p>
+<p align="center"><a href="https://www.codewars.com/users/ikikaidesu"><img src="https://github.com/ikikaidesu/ikikaidesu/blob/main/pics/codewars.png"></a></p>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ikikaidesu)
