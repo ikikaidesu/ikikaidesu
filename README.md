@@ -1,46 +1,52 @@
-<h1 align="middle" text><b>hi, im Matvey/ikikaidesu!</b></h1>
+<h1><b>Yo, im Matvey/ikikaidesu!</b></h1>
 
 ---
 
-<h1 align="middle"><b>:man_technologist: about me :man_technologist:</b></h1>
+<h1><b>about me :man_technologist:</b></h1>
 
-<p align="middle">Beginner GameDev Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. As a child, I always liked to play some online games where there are servers like minecraft. In my youth, when I faced the choice of who I should be, I decided to remember the past and realized that I would like to create something that would bring other people the same joy. That's how I learned about IT and programming.</p>
+<p>Beginner GameDev Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. As a child, I always liked to play some online games where there are servers like minecraft. In my youth, when I faced the choice of who I should be, I decided to remember the past and realized that I would like to create something that would bring other people the same joy. That's how I learned about IT and programming.</p>
 
 ---
-<p align="center">:zap: I am currently a college student in programming :zap:</p>
+<p>I am currently a college student in programming :zap:</p>
 
-<p align="center">:mailbox: contact me :mailbox:</p> 
-<p align="center"><a href="https://t.me/ikikaidesu"><img src="https://github.com/ikikaidesu/ikikaidesu/blob/main/pics/telegram%20(1).png"></a></p>
+- :mailbox: contact me: [![Telegram](https://img.shields.io/badge/ikikaidesu-purple?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ikikaidesu) ![Gmail](https://img.shields.io/badge/mtv.dcknv@gmail.com-purple?style=for-the-badge&logo=gmail&logoColor=white)
+
 
 --- 
 
-<h2 align="center">💻 <b>programming languages </b>💻</h2>
+<h2><b>programming languages </b>💻</h2>
 
-<table align="center">
-  <thead>
-    <tr>
-      <th><h3 align = "center"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" align="center" width="50" height="50"/> Junior</h3></th>
-      <th><h3 align = "center"><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" align="center" width="50" height="50" /> Beginner</h3></th>
-    </tr>
-  </thead>
-</table>
+![Python](https://img.shields.io/badge/junior-purple?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/beginner-purple.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ---
 
-<h2 align="center">🗣️ <b>languages</b> 🗣️</h2>
-<table align="center">
-  <thead>
-    <tr>
-      <th><img src="https://github.com/ikikaidesu/ikikaidesu/blob/main/pics/russian%20flag.png" width="70" height="50"><h3>native</h3></th>
-      <th><img src="https://github.com/ikikaidesu/ikikaidesu/blob/main/pics/englang%20flag.png" width="70" height="50"><h3>a2-b1</h3></th>
-    </tr>
-  </thead>
-</table>
+<h2><b>Tools</b> 🛠</h2>
+<p>here are the tools I once used(which I study)</p>
+
+![Git](https://img.shields.io/badge/git-purple?style=for-the-badge&logo=git&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-purple?style=for-the-badge&logo=ubuntu&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-purple?style=for-the-badge&logo=mysql&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-purple?style=for-the-badge&logo=windows&logoColor=white)
 
 ---
-<h2 align="center">👨‍🎓  <b>training</b> 👨‍🎓</h2>
-<p align="center">sites where I study languages</p>
-<p align="center"><a href="https://stepik.org/users/189932395/profile"><img src="https://github.com/ikikaidesu/ikikaidesu/blob/main/pics/stepik.png"></a></p>
-<p align="center"><a href="https://www.codewars.com/users/ikikaidesu"><img src="https://github.com/ikikaidesu/ikikaidesu/blob/main/pics/codewars.png"></a></p>
+
+<h2><b>languages</b> 🗣️</h2>
+
+![Russian](https://img.shields.io/badge/russian-native-purple?style=for-the-badge&logo=Russia&logoColor=white)
+![English](https://img.shields.io/badge/english-2a:1b-purple?style=for-the-badge&logo=Russia&logoColor=white)
+
+---
+<h2><b>training</b> 👨‍🎓</h2>
+<p>sites where I study languages</p>
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-purple?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/ikikaidesu/)
+[![Stepik](https://img.shields.io/badge/Stepik-purple?style=for-the-badge&logo=Stepik&logoColor=white)](https://stepik.org/users/189932395/profile)
+[![Codewars](https://img.shields.io/badge/Codewars-purple?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/ikikaidesu)
+[![SoloLlearn](https://img.shields.io/badge/Sololearn-purple?style=for-the-badge&logo=Sololearn&logoColor=white)](https://www.sololearn.com/profile/29983048)
+
+---
+<h2><b>GitHub statistic</b> ⚙️</h2>
+<img alt="Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ikikaidesu&layout=compact&theme=vision-friendly-dark" />
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ikikaidesu)
