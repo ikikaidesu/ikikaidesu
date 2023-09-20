@@ -9,7 +9,9 @@
 ---
 <p>I am currently a college student in programming :zap:</p>
 
-- :mailbox: contact me: [![Telegram](https://img.shields.io/badge/ikikaidesu-purple?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ikikaidesu) ![Gmail](https://img.shields.io/badge/mtv.dcknv@gmail.com-purple?style=for-the-badge&logo=gmail&logoColor=white)
+<p>:mailbox: contact me: </p>
+
+[![Telegram](https://img.shields.io/badge/ikikaidesu-purple?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ikikaidesu) ![Gmail](https://img.shields.io/badge/mtv.dcknv@gmail.com-purple?style=for-the-badge&logo=gmail&logoColor=white)
 
 
 --- 
