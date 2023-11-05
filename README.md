@@ -24,7 +24,7 @@
 ---
 
 <h2><b>Tools</b> 🛠</h2>
-<p>here are the tools I once used(which I study)</p>
+<p>Here are the tools I'm learning</p>
 
 ![Git](https://img.shields.io/badge/git-purple?style=for-the-badge&logo=git&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-purple?style=for-the-badge&logo=ubuntu&logoColor=white)
@@ -40,7 +40,7 @@
 
 ---
 <h2><b>training</b> 👨‍🎓</h2>
-<p>sites where I study languages</p>
+<p>sites where I learn languages</p>
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-purple?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/ikikaidesu/)
 [![Stepik](https://img.shields.io/badge/Stepik-purple?style=for-the-badge&logo=Stepik&logoColor=white)](https://stepik.org/users/189932395/profile)
