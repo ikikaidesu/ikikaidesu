@@ -19,7 +19,7 @@
 <h2><b>programming languages </b>💻</h2>
 
 ![Python](https://img.shields.io/badge/junior-purple?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/beginner-purple.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C#](https://img.shields.io/badge/beginner-purple.svg?style=for-the-badge&logo=csharp&logoColor=white)
 
 ---
 
