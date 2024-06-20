@@ -9,41 +9,83 @@
 ---
 <p>I am currently a college student in programming :zap:</p>
 
-<p>:mailbox: contact me: </p>
+<p>contact me :mailbox: </p>
 
-[![Telegram](https://img.shields.io/badge/ikikaidesu-purple?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ikikaidesu) ![Gmail](https://img.shields.io/badge/mtv.dcknv@gmail.com-purple?style=for-the-badge&logo=gmail&logoColor=white)
+![Gmail](https://img.shields.io/badge/mtv.dcknv@gmail.com-purple?style=for-the-badge&logo=gmail&logoColor=white)
 
 
 --- 
 
 <h2><b>programming languages </b>💻</h2>
 
-![Python](https://img.shields.io/badge/junior-purple?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/junior-purple.svg?style=for-the-badge&logo=csharp&logoColor=white)
+
+<details>
+  <summary>
+    <img src="https://img.shields.io/badge/python-purple?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge">
+  </summary>
+  <br>
+  
+  > Junior
+
+  ### Technologies and libraries with which I worked
+  - BS4
+  - selenium
+  - requests
+  - tkinter
+  - telebot
+  - IO
+  - pandas
+  - logging
+
+<br>
+    
+</details>
+
+<details>
+  <summary>
+    <img src="https://img.shields.io/badge/Csharp-purple.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C# Badge">
+  </summary>
+  <br>
+  
+  > Junior
+
+  ### Technologies and libraries with which I worked
+  - WPF
+     - MVVM
+     - MVC
+  - xamarin
+  - Entity Framework
+  - Newtonsoft.Json
+  - IO
+  - Unit
+
+<br>
+    
+</details>
 
 ---
 
 <h2><b>Tools</b> 🛠</h2>
-<p>Here are the tools I'm learning</p>
+<p>Here are the tools I'm learning or work with</p>
 
 ![Git](https://img.shields.io/badge/git-purple?style=for-the-badge&logo=git&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-purple?style=for-the-badge&logo=ubuntu&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-purple?style=for-the-badge&logo=mysql&logoColor=white)
+![ssms](https://img.shields.io/badge/ssms-purple?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-purple?style=for-the-badge&logo=windows&logoColor=white)
+![VisualStudio](https://img.shields.io/badge/Visual_Studio-purple?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-purple?&style=for-the-badge&logo=PyCharm&logoColor=white)
 
 ---
 
 <h2><b>languages</b> 🗣️</h2>
 
 ![Russian](https://img.shields.io/badge/russian-native-purple?style=for-the-badge&logo=Russia&logoColor=white)
-![English](https://img.shields.io/badge/english-2a:1b-purple?style=for-the-badge&logo=Russia&logoColor=white)
+![English](https://img.shields.io/badge/english-1b-purple?style=for-the-badge&logo=Russia&logoColor=white)
 
 ---
 <h2><b>training</b> 👨‍🎓</h2>
-<p>sites where I learn languages</p>
+<p>sites where I learn languages and training</p>
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-purple?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/ikikaidesu/)
-[![Stepik](https://img.shields.io/badge/Stepik-purple?style=for-the-badge&logo=Stepik&logoColor=white)](https://stepik.org/users/189932395/profile)
 [![Codewars](https://img.shields.io/badge/Codewars-purple?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/ikikaidesu)
 [![SoloLlearn](https://img.shields.io/badge/Sololearn-purple?style=for-the-badge&logo=Sololearn&logoColor=white)](https://www.sololearn.com/profile/29983048)
 
