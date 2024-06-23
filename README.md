@@ -11,7 +11,7 @@
 
 <p>contact me :mailbox: </p>
 
-![Gmail](https://img.shields.io/badge/mtv.dcknv@gmail.com-purple?style=for-the-badge&logo=gmail&logoColor=white)
+![Gmail](https://img.shields.io/badge/ikikaidesu.business@gmail.com-purple?style=for-the-badge&logo=gmail&logoColor=white)(mailto:ikikaidesu.business@gmail.com@gmail.com))
 
 
 --- 
