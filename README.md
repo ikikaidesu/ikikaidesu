@@ -56,6 +56,7 @@
   - xamarin
   - Entity Framework
   - Newtonsoft.Json
+  - OxyPlot
   - IO
   - Unit tests
 
