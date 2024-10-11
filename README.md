@@ -70,10 +70,7 @@
 <p>Here are the tools I'm learning or work with</p>
 
 ![Git](https://img.shields.io/badge/git-purple?style=for-the-badge&logo=git&logoColor=white)
-![ssms](https://img.shields.io/badge/ssms-purple?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![windows](https://img.shields.io/badge/Windows-purple?style=for-the-badge&logo=windows&logoColor=white)
-![VisualStudio](https://img.shields.io/badge/Visual_Studio-purple?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-purple?&style=for-the-badge&logo=PyCharm&logoColor=white)
+![Aseprite](https://img.shields.io/badge/Aseprite-purple?style=for-the-badge&logo=Aseprite&logoColor=#7D929E)
 
 ---
 
