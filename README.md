@@ -1,94 +1,18 @@
-<h1><b>Yo, im Matvey/ikikaidesu!</b></h1>
+<h2><b>Yo, im Matvey/ikikaidesu!</b></h2>
+
+:star: - "What's the point of worrying about the past? A real star keeps moving forward."
+
+⌨️ backend developer
+
+📃 work with:
+<p>
+  <img alt="C#" src="https://img.shields.io/badge/C%23-8000FF?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img alt="python" src="https://img.shields.io/badge/python-8000FF?style=for-the-badge&logo=python&logoColor=white"/>
+  <img alt="git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+  <img alt="aseprite" src="https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E"/>
+</p>
 
 ---
 
-<h1><b>about me :man_technologist:</b></h1>
 
-<p>Beginner GameDev Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. As a child, I always liked to play some online games where there are servers like minecraft. In my youth, when I faced the choice of who I should be, I decided to remember the past and realized that I would like to create something that would bring other people the same joy. That's how I learned about IT and programming.</p>
-
----
-<p>I am currently a college student in programming :zap:</p>
-
-<p>contact me :mailbox: </p>
-
-[![Gmail](https://img.shields.io/badge/ikikaidesu.business@gmail.com-purple?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ikikaidesu.business@gmail.com)
-
-
---- 
-
-<h2><b>programming languages </b>💻</h2>
-
-
-<details>
-  <summary>
-    <img src="https://img.shields.io/badge/python-purple?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge">
-  </summary>
-  <br>
-  
-  > Junior
-
-  ### Technologies and libraries with which I worked
-  - BS4
-  - selenium
-  - requests
-  - tkinter
-  - telebot
-  - IO
-  - pandas
-  - logging
-
-<br>
-    
-</details>
-
-<details>
-  <summary>
-    <img src="https://img.shields.io/badge/Csharp-purple.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C# Badge">
-  </summary>
-  <br>
-  
-  > Junior
-
-  ### Technologies and libraries with which I worked
-  - WPF
-     - MVVM
-     - MVC
-  - xamarin
-  - Entity Framework
-  - Newtonsoft.Json
-  - OxyPlot
-  - IO
-  - Unit tests
-
-<br>
-    
-</details>
-
----
-
-<h2><b>Tools</b> 🛠</h2>
-<p>Here are the tools I'm learning or work with</p>
-
-![Git](https://img.shields.io/badge/git-purple?style=for-the-badge&logo=git&logoColor=white)
-![Aseprite](https://img.shields.io/badge/Aseprite-purple?style=for-the-badge&logo=Aseprite&logoColor=#7D929E)
-
----
-
-<h2><b>languages</b> 🗣️</h2>
-
-![Russian](https://img.shields.io/badge/russian-native-purple?style=for-the-badge&logo=Russia&logoColor=white)
-![English](https://img.shields.io/badge/english-1b-purple?style=for-the-badge&logo=Russia&logoColor=white)
-
----
-<h2><b>training</b> 👨‍🎓</h2>
-<p>sites where I learn languages and training</p>
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-purple?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/ikikaidesu/)
-[![Codewars](https://img.shields.io/badge/Codewars-purple?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/ikikaidesu)
-[![SoloLlearn](https://img.shields.io/badge/Sololearn-purple?style=for-the-badge&logo=Sololearn&logoColor=white)](https://www.sololearn.com/profile/29983048)
-
----
-<h2><b>GitHub statistic</b> ⚙️</h2>
-<img alt="Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ikikaidesu&layout=compact&theme=vision-friendly-dark" />
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ikikaidesu)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ikikaidesu&layout=compact)
