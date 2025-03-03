@@ -29,8 +29,9 @@
 <p>
   <img alt="aseprite" height="25" src="https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E"/>
 </p>
-
+<!--
 ---
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ikikaidesu&layout=compact)
+ ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ikikaidesu&layout=compact) -->
+
